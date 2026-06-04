@@ -1,0 +1,10 @@
+<h2>Edit User</h2>
+<form method="post">
+<input name="name" value="<%=u.name%>" required>
+<input name="email" value="<%=u.email%>" required>
+<select name="role">
+<option value="user" <%=u.role==='user'?'selected':''%>>user</option>
+<option value="admin" <%=u.role==='admin'?'selected':''%>>admin</option>
+</select>
+<button>Save</button>
+</form>
