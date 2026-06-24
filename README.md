@@ -11,16 +11,12 @@ Application de gestion des utilisateurs générée avec Gemini, incluant :
 - Suppression de compte
 - API REST structurée
 
----
-
 ## 🏗️ Technologies
 
 - Node.js / Express
 - PostgreSQL
 - JWT Authentication
 - Docker (optionnel)
-
----
 
 ## ▶️ Installation
 
