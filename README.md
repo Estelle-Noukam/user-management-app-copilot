@@ -24,7 +24,7 @@ Application de gestion des utilisateurs générée avec Gemini, incluant :
 npm install
 npm start
 🌐 Accès API
-Base URL : http://localhost:4000/api/users
+Base URL : http://localhost:8080/api/users
 
 🔐 Endpoints principaux
 Méthode	Route	Description
